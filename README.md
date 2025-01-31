@@ -9,6 +9,7 @@ I'm a passionate software developer, currently working with Django and Python. I
 - **Frameworks:** Django
 - **Databases:** MySQL
 - **Tools:** Git,github
+
  
 ### Soft Skills:
 - Leadership
