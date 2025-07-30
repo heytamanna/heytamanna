@@ -1,13 +1,17 @@
 # Hi there, I'm Tamanna 👋
 
 ## 🚀 About Me
-I'm a passionate software developer, currently working with Django and Python. I'm focused on building robust and scalable applications, and I am always learning new technologies. I'm actively seeking new opportunities and challenges.
+AI Intern at BeatRoute.io, working on real-world NLP and machine learning projects using Python.
+Previously completed a 6-month Python Developer internship at Raidlayer, focused on Django and REST APIs.
+B.Tech graduate in Computer Science with certifications in Full Stack Development and Machine Learning.
+Passionate about building intelligent, scalable solutions to solve real-world problems.
 
 ## 🛠️ Skills
 
 - **Languages:** Python, JavaScript, HTML, CSS,Java
-- **Frameworks:** Django
+- **Frameworks:** Django,Flask
 - **Databases:** MySQL
+- **AI/ML Libraries:** scikit-learn, TensorFlow, NumPy, pandas, spaCy, OpenAI API
 - **Tools:** Git,github
 
  
@@ -19,7 +23,12 @@ I'm a passionate software developer, currently working with Django and Python. I
 
 
 ## 💼 Work Experience
-- **Python Developer Intern** | Raidlayer Internet P Limited  (oct/2024 - Present)
+- **AI Intern** | Beatroute.io (may/2025 - Present)
+- Working on real-world AI solutions.
+- Collaborating with the AI team to deploy scalable, intelligent features into production workflows.
+
+
+- **Python Developer Intern** | Raidlayer Internet P Limited  (oct/2024 - April/2025)
 - Contributed to developing scalable web applications using Django.
 - Integrated REST APIs and optimized database queries.
 
