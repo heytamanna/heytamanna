@@ -1,10 +1,10 @@
 # Hi there, I'm Tamanna 👋
 
 ## 🚀 About Me
-AI Intern at BeatRoute.io, working on real-world NLP and machine learning projects using Python.
-Previously completed a 6-month Python Developer internship at Raidlayer, focused on Django and REST APIs.
+AI Developer at Kaizen Lessons, building AI-driven automation and machine learning solutions using Python.
+Previously worked as an AI Intern at BeatRoute.io, and completed a 6-month Python Developer internship at Raidlayer focused on Django and REST APIs.
 B.Tech graduate in Computer Science with certifications in Full Stack Development and Machine Learning.
-Passionate about building intelligent, scalable solutions to solve real-world problems.
+Passionate about creating intelligent, scalable solutions that solve real-world problems.
 
 ## 🛠️ Skills
 
@@ -23,7 +23,7 @@ Passionate about building intelligent, scalable solutions to solve real-world pr
 
 
 ## 💼 Work Experience
-- **AI Intern** | Beatroute.io (may/2025 - Present)
+- **AI Intern** | Beatroute.io (may/2025 - nov/22)
 - Working on real-world AI solutions.
 - Collaborating with the AI team to deploy scalable, intelligent features into production workflows.
 
